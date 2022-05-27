@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
             rollDice()
         }
         diceImage = findViewById(R.id.dice_image)
+        //TODO: Make this app more beautiful
     }
 
     private fun rollDice() {
